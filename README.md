@@ -27,7 +27,7 @@ Odin-Rock-Paper-Scissors/
 │   │   └── privacy.html           # Página de Política de Privacidade (vazia)
 │   ├── css/
 │   │   └── style.css              # Arquivo de estilos personalizados (vazio)
-│   ├── images/                    # Pasta para imagens
+│   ├── images/                    # Pasta para imagens (vazio)
 │   └── js/
 │       └── script.js              # Script JavaScript com a lógica do jogo
 └── README.md                      # Arquivo README com informações sobre o projeto
@@ -79,7 +79,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Autores
 
-- **Seu Nome** - _Trabalho inicial_ - [Seu GitHub](https://github.com/iErickAraujo)
+- **iErickAraujo** - _Trabalho inicial_ - [Meu GitHub](https://github.com/iErickAraujo)
 
 ## Reconhecimentos
 
