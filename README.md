@@ -1,6 +1,6 @@
 # Odin-Rock-Paper-Scissors
 
-Este projeto é um jogo clássico de Pedra, Papel e Tesoura implementado com HTML, CSS e JavaScript.
+Este projeto é um jogo clássico de Pedra, Papel e Tesoura implementado com HTML, CSS e JavaScript do curso de fundamentos do projeto Odin.
 
 ## Índice
 
